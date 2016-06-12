@@ -66,7 +66,8 @@ For even more demo pages check the [posts archive][year-archive].
 - Greedy Navigation - [lukejacksonn](http://codepen.io/lukejacksonn/pen/PwmwWV)
 - [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
 - [Stickyfill](https://github.com/wilddeer/stickyfill)
-
+- [Configurations](https://mmistakes.github.io/skinny-bones-jekyll/getting-started/)
+- [Upgrading](https://mmistakes.github.io/minimal-mistakes/docs/upgrading/)
 ---
 
 The MIT License (MIT)
