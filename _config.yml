@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "THE NOT SO CLEAR CODER"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Levy Moreira"
+description              : "Geek, sofware developer and in my spare time game player."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -37,7 +37,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : levymoreira
 facebook:
   username               :
   app_id                 :
@@ -63,11 +63,11 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Levy Moreira"
   avatar           : "bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Geek, sofware developer and in my spare time game player."
+  location         : "Dublin, Ireland"
+  email            : me@levymoreira.com
   uri              :
   bitbucket        :
   codepen          :
@@ -75,18 +75,18 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : levymoreira
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : levymoreira
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          :
+  twitter          : levymoreira
   vine             :
   weibo            :
   xing             :
