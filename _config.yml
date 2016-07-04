@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "THE NOT SO CLEAR CODER"
+locale                   : "en"
+title                    : "THINGS THAT MAKE MY HEART HURT"
 title_separator          : "-"
 name                     : "Levy Moreira"
 description              : "Geek, sofware developer and in my spare time game player."
