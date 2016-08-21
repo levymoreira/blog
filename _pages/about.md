@@ -11,7 +11,7 @@ comments: false
 share: false
 modified: 9-9-2013
 header:
-  overlay_image: about1.jpg
+  overlay_image: about.jpg
   #overlay_filter: hsla(120, 100%, 25%, 0.3)
   caption: "Photo credit: My mom"
   cta_label: "Check my Linkedin"
