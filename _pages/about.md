@@ -1,22 +1,26 @@
 ---
 layout: single
-excerpt: "About page."
+#excerpt: "About page."
 sitemap: false
 permalink: /about/index.html
-title: About
+title: About me
 tagline: HMFAYSAL V2, a Jekyll Theme
 tags: [about]
 author_profile: true
 comments: false
 share: false
 modified: 9-9-2013
-image:
-  feature: texture-feature-02.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+header:
+  overlay_image: about1.jpg
+  #overlay_filter: hsla(120, 100%, 25%, 0.3)
+  caption: "Photo credit: My mom"
+  cta_label: "Check my Linkedin"
+  cta_url: "https://br.linkedin.com/in/levymoreira"
 ---
 
-My name is **Hossain Mohd. Faysal**, I am an MSc + PhD candidate in *Electrical Engineering* at the [School of Engineering and Applied Science](http://www.seas.upenn.edu/) at **University of Pennsylvania**. I am licensed as a Professional Engineer (P.E) to practice in the states of Texas, Massachusetts and California. I graduated with a B.Sc degree in EECS from Texas A&M University in 2011 and with a B.Sc degree in Mathematics from Massachusetts Institute of Technology in 2012, and currently focusing on Electrical Engineering for my post-graduate studies.   
+My name is **Levy Moreira**, I am an Geek and Software Developer in *Fortaleza Brazil* 
+and currently I work at the [Instituto Atlântico](http://www.atlantico.com.br/en)... 
+In my spare time I play games and update this blog with things of my interest.
 
 ---
-Jekyll is pretty rad and figured releasing a cleaned up version of [my site](http://www.theevilgenius.tk) as a theme for others to hack and build on would be fun. So here be that theme --- I call it **HMFAYSAL V2**, a responsive Jekyll theme with a navigation drawer, large featured images and solid typography. 
+Thanks for access [my site](http://www.levymoreira.com) if you want more information about my professional experience please check [my Linkedin account](https://br.linkedin.com/in/levymoreira).  
