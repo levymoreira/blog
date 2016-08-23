@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
-bundle exec jekyll serve
+fuser -k 4000/tcp
+bundle exec jekyll serve --watch
