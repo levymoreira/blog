@@ -16,7 +16,7 @@ args=("$@")
 COMMIT_MESSAGE=${args[0]}
 
 # Build
-bundle exec jekyll build
+rm -rf _site && bundle exec jekyll build
 
 # Copy to github.io project
 rsync -u -a _site/ ../levymoreira.github.io/
