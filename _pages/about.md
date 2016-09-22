@@ -23,4 +23,5 @@ and currently I work at the [Instituto Atlântico](http://www.atlantico.com.br/e
 In my spare time I play games and update this blog with things of my interest.
 
 ---
-Thanks for access [my site](http://www.levymoreira.com) if you want more information about my professional experience please check [my Linkedin account](https://br.linkedin.com/in/levymoreira).  
+Thanks for access [my site](http://www.levymoreira.com) if you want more information about my professional experience please check [my Linkedin account](https://br.linkedin.com/in/levymoreira).
+Or if want know more about me, please call me to drink some cofe :)
