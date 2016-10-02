@@ -61,10 +61,15 @@ cd /var/www/ && ls -lha
 ~~~
 
 * Just to explain in this string "drwxr-xr-x 2 root root"
+
 drwxr: Owner of the folder permission, in our case root permissions
+
 xs: Group folder permissions
+
 x: All others users permissions (not root and not in the group)
+
 First root: Folder owner
+
 Second root: Group of the folder
 
 To one better explanation, please check [this link](https://www.garron.me/en/go2linux/ls-file-permissions.html)
