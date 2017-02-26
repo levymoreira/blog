@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Levy Moreira"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Geek, sofware developer and in my spare time game player."
+  bio              : "Geek, Software Engineer and in my spare time game player."
   location         : "Dublin, Ireland"
   email            : me@levymoreira.com
   uri              :
@@ -100,7 +100,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : levymoreira
+  twitter          : _levymoreira
   vine             :
   weibo            :
   xing             :
@@ -240,7 +240,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
+      read_time: false
+      comments: true
       share: true
       related: true
