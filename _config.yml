@@ -10,7 +10,7 @@ locale                   : "en"
 title                    : "TL;DR"
 title_separator          : "-"
 name                     : "Levy Moreira"
-description              : "Geek, sofware developer and in my spare time game player."
+description              : "Geek, Software Engineer and in my spare time game player."
 url                      : "https://levymoreira.com" # "http://localhost:4000" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : levymoreira
+  username               : _levymoreira
 facebook:
   username               :
   app_id                 :
