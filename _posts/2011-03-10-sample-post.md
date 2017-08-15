@@ -9,10 +9,6 @@ author_profile: true
 comments: true
 share: true
 related: true
-image:
-  feature: texture-feature-05.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
 ---
 
 <section id="table-of-contents" class="toc">
